@@ -1,0 +1,1 @@
+<?php$pages='about_details_content';include './index.php';

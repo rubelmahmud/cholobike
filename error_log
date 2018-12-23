@@ -1,0 +1,818 @@
+[21-Nov-2018 16:04:18 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:15:40 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:15:40 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:17:56 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:17:56 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:20:29 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:20:29 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:20:30 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:20:30 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:20:30 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:20:30 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:20:52 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:20:52 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:21:14 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:21:14 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:22:31 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:22:31 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:26:01 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:26:01 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:32:43 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:32:43 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:36:17 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:36:17 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:37:18 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:37:18 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 16:37:54 America/New_York] PHP Notice:  Undefined variable: DY in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 4
+[21-Nov-2018 16:37:54 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'rubefzqu_rubefzqu'@'localhost' (using password: YES) in /home/rubefzqu/cholobike.rubelmahmud.me/pages/connection.php on line 8
+[21-Nov-2018 17:09:45 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[21-Nov-2018 17:10:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 378
+[21-Nov-2018 17:10:00 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 384
+[21-Nov-2018 17:10:00 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 386
+[21-Nov-2018 17:10:00 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[21-Nov-2018 17:10:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[21-Nov-2018 17:10:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 507
+[21-Nov-2018 17:10:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 521
+[21-Nov-2018 17:10:45 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 530
+[21-Nov-2018 17:10:45 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 530
+[21-Nov-2018 17:10:45 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 530
+[21-Nov-2018 17:10:45 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 534
+[21-Nov-2018 17:10:45 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 538
+[21-Nov-2018 17:11:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 521
+[21-Nov-2018 17:11:33 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 530
+[21-Nov-2018 17:11:33 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 530
+[21-Nov-2018 17:11:33 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 530
+[21-Nov-2018 17:11:33 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 534
+[21-Nov-2018 17:11:33 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 538
+[21-Nov-2018 17:12:46 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 599
+[21-Nov-2018 17:12:46 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 599
+[21-Nov-2018 17:12:46 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 599
+[21-Nov-2018 17:12:46 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 603
+[21-Nov-2018 17:12:46 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 607
+[21-Nov-2018 17:26:59 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[21-Nov-2018 17:27:06 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[21-Nov-2018 17:27:06 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[21-Nov-2018 17:27:06 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[21-Nov-2018 17:27:06 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[21-Nov-2018 17:27:06 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 02:04:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 02:05:44 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:05:44 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:05:44 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:05:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[22-Nov-2018 02:05:44 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 02:34:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 02:34:58 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:34:58 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:34:58 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:34:58 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[22-Nov-2018 02:34:58 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 02:35:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 02:36:15 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 02:36:20 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:36:20 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:36:20 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 02:36:20 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[22-Nov-2018 02:36:20 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 03:12:17 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:12:23 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:12:23 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:12:23 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:12:23 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[22-Nov-2018 03:12:23 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 03:15:07 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:15:15 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:15:21 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:15:21 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:15:21 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:15:21 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[22-Nov-2018 03:15:21 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 03:17:21 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:17:26 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:17:26 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:17:26 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 335
+[22-Nov-2018 03:17:26 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 339
+[22-Nov-2018 03:17:26 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 343
+[22-Nov-2018 03:18:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:18:40 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:18:44 America/New_York] PHP Fatal error:  Call to undefined function vardump() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 336
+[22-Nov-2018 03:20:06 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:20:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:20:49 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:20:49 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:20:49 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:20:49 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 342
+[22-Nov-2018 03:20:49 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 346
+[22-Nov-2018 03:21:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:21:58 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:22:03 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:22:03 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:22:03 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:22:03 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 342
+[22-Nov-2018 03:22:03 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 346
+[22-Nov-2018 03:22:35 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:22:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:22:44 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:22:44 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:22:44 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:22:44 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 342
+[22-Nov-2018 03:22:44 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 346
+[22-Nov-2018 03:26:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:35:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:35:35 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:35:35 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:35:35 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 338
+[22-Nov-2018 03:35:35 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 342
+[22-Nov-2018 03:35:35 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 346
+[22-Nov-2018 03:40:26 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:40:32 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:40:38 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:40:38 America/New_York] PHP Warning:  include(.\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:40:38 America/New_York] PHP Warning:  include(): Failed opening '.\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:40:38 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 341
+[22-Nov-2018 03:40:38 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 345
+[22-Nov-2018 03:43:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:44:01 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:46:38 America/New_York] PHP Warning:  include(\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:46:38 America/New_York] PHP Warning:  include(\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:46:38 America/New_York] PHP Warning:  include(): Failed opening '\pages\mail_sender.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:46:38 America/New_York] PHP Warning:  Creating default object from empty value in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 341
+[22-Nov-2018 03:46:38 America/New_York] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 345
+[22-Nov-2018 03:47:48 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:47:54 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:47:59 America/New_York] PHP Notice:  Undefined variable: sql in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 326
+[22-Nov-2018 03:47:59 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 326
+[22-Nov-2018 03:48:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:48:48 America/New_York] PHP Warning:  require(\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:48:48 America/New_York] PHP Warning:  require(\pages\mail_sender.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:48:48 America/New_York] PHP Fatal error:  require(): Failed opening required '\pages\mail_sender.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 337
+[22-Nov-2018 03:49:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:49:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:49:50 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 03:49:50 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[22-Nov-2018 03:49:50 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:50:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:51:33 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 03:51:33 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[22-Nov-2018 03:51:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 03:54:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 03:54:13 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 511
+[22-Nov-2018 04:04:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 525
+[22-Nov-2018 04:04:29 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 527
+[22-Nov-2018 04:04:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 04:09:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 525
+[22-Nov-2018 04:09:47 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 527
+[22-Nov-2018 04:09:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 525
+[22-Nov-2018 04:09:48 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 527
+[22-Nov-2018 04:10:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 06:35:02 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:35:02 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:35:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 06:35:23 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:35:23 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:36:02 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:36:02 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:36:02 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:36:02 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:36:02 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:36:02 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:36:03 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:36:03 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:36:03 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:36:03 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:36:03 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:36:03 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:46:13 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:46:13 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 06:46:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 06:46:45 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 06:46:45 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 10:36:18 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 10:36:18 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 10:37:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 10:37:57 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 10:37:57 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 10:54:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 10:57:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 511
+[22-Nov-2018 10:58:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 525
+[22-Nov-2018 12:50:32 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 459
+[22-Nov-2018 12:50:32 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 473
+[22-Nov-2018 12:50:32 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 493
+[22-Nov-2018 12:50:32 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 511
+[22-Nov-2018 14:45:47 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:47:30 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:48:03 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:48:42 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 14:48:42 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 14:49:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 14:49:00 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 14:49:00 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 14:49:48 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:49:57 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:27 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:34 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:35 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:39 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:42 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:45 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:50:48 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:52:58 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:53:02 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:53:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 459
+[22-Nov-2018 14:53:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 473
+[22-Nov-2018 14:53:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 493
+[22-Nov-2018 14:53:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 511
+[22-Nov-2018 14:53:21 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 14:53:21 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 14:53:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 14:53:37 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 14:53:37 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 14:55:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 459
+[22-Nov-2018 14:55:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 473
+[22-Nov-2018 14:55:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 493
+[22-Nov-2018 14:55:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 511
+[22-Nov-2018 14:55:11 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:55:59 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 14:55:59 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 14:56:05 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 14:56:05 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 14:56:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:56:35 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:57:32 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:57:35 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:57:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:57:45 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:57:51 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 14:59:51 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:02:19 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:02:35 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:02:40 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:02:42 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:04:38 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:05:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:05:34 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 15:05:34 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[22-Nov-2018 15:05:34 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:05:48 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 15:05:48 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[22-Nov-2018 15:05:48 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:06:55 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 603
+[22-Nov-2018 15:07:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 15:07:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 534
+[22-Nov-2018 15:08:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 548
+[22-Nov-2018 15:08:07 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 550
+[22-Nov-2018 15:08:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 15:08:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 548
+[22-Nov-2018 15:08:38 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 550
+[22-Nov-2018 15:18:06 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:18:06 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:18:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:18:24 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:18:24 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:30:15 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:30:15 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:30:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:30:28 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:30:28 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:40:16 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:40:16 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:40:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:40:33 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:40:33 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:42:21 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:42:21 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:42:44 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:42:44 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:43:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:43:00 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:43:00 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:43:00 America/New_York] PHP Fatal error:  Call to undefined function vardump() in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 6
+[22-Nov-2018 15:44:28 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 6
+[22-Nov-2018 15:48:28 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 6
+[22-Nov-2018 15:48:41 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:48:41 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:48:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:48:50 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 155
+[22-Nov-2018 15:48:50 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_confirmation_content.php on line 156
+[22-Nov-2018 15:48:50 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 6
+[22-Nov-2018 15:53:51 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 6
+[22-Nov-2018 15:54:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:54:12 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 6
+[22-Nov-2018 15:57:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:58:10 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:58:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 15:58:12 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 388
+[22-Nov-2018 15:58:12 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 390
+[22-Nov-2018 15:58:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:59:09 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 15:59:10 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 16:02:57 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 16:05:22 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 16:05:22 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[22-Nov-2018 16:05:22 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 16:06:44 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 32
+[22-Nov-2018 16:07:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 16:08:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:09:46 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 16:09:56 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/rubefzqu/cholobike.rubelmahmud.me/pages/rent_thank_u_content.php on line 32
+[22-Nov-2018 16:10:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 534
+[22-Nov-2018 16:10:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 548
+[22-Nov-2018 16:10:48 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 550
+[22-Nov-2018 16:11:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 548
+[22-Nov-2018 16:11:00 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 550
+[22-Nov-2018 16:11:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 548
+[22-Nov-2018 16:11:11 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 550
+[22-Nov-2018 16:13:49 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 16:13:57 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 16:13:57 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[22-Nov-2018 16:13:57 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 16:16:25 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 603
+[22-Nov-2018 16:17:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:17:23 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:17:23 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:17:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 382
+[22-Nov-2018 16:17:26 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 388
+[22-Nov-2018 16:17:26 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:17:26 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:17:55 America/New_York] PHP Notice:  Undefined index: id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/product_details_content.php on line 7
+[22-Nov-2018 16:18:03 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:18:09 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:18:09 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:18:17 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[22-Nov-2018 16:18:17 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:18:17 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:19:13 America/New_York] PHP Notice:  Undefined index: id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/cart_content.php on line 6
+[22-Nov-2018 16:19:19 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[22-Nov-2018 16:19:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:19:48 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:19:48 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:23:45 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:23:45 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:24:21 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:24:21 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:24:30 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 170
+[22-Nov-2018 16:24:30 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 171
+[22-Nov-2018 16:25:16 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[22-Nov-2018 16:25:16 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[22-Nov-2018 16:25:20 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[22-Nov-2018 16:25:20 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[22-Nov-2018 16:25:34 America/New_York] PHP Notice:  Undefined index: id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/cart_content.php on line 6
+[22-Nov-2018 16:25:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:25:53 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[22-Nov-2018 16:25:53 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[22-Nov-2018 16:25:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 424
+[22-Nov-2018 16:25:55 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 430
+[22-Nov-2018 16:25:55 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[22-Nov-2018 16:25:55 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[22-Nov-2018 16:26:17 America/New_York] PHP Notice:  Undefined index: id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/cart_content.php on line 6
+[22-Nov-2018 16:44:02 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[22-Nov-2018 16:44:02 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[22-Nov-2018 16:44:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 424
+[22-Nov-2018 16:44:04 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 430
+[22-Nov-2018 16:44:04 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[22-Nov-2018 16:44:04 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[22-Nov-2018 16:44:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 576
+[22-Nov-2018 16:44:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:46:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:47:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:48:03 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:48:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:53:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:53:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:55:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:56:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:56:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:57:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:57:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 16:59:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[22-Nov-2018 16:59:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 590
+[22-Nov-2018 17:01:13 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[22-Nov-2018 17:01:13 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[22-Nov-2018 17:01:13 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[22-Nov-2018 17:01:13 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[22-Nov-2018 18:35:46 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 08:43:16 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 08:43:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 424
+[23-Nov-2018 08:43:36 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 430
+[23-Nov-2018 08:43:36 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 432
+[23-Nov-2018 08:43:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 08:43:48 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 08:43:54 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 08:43:54 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 08:43:54 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 08:43:54 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 08:43:56 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 08:56:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 08:56:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 08:56:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 08:56:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 08:56:52 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 08:56:52 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 08:56:52 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 08:56:52 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:33:06 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:33:06 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:33:06 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:33:06 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:39:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:39:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:39:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:39:37 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:48:31 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:48:31 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:48:31 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:48:31 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:55:05 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:55:05 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:55:05 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:55:05 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:56:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:56:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:56:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:56:08 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:56:41 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:56:41 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:56:41 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:56:41 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 09:59:29 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 09:59:29 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 09:59:29 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 09:59:29 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 10:03:02 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 10:03:02 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 10:03:02 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 10:03:02 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 10:20:20 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 10:20:20 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 10:20:20 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 10:20:20 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 10:21:44 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 10:21:44 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 10:21:44 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 10:21:44 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 11:01:21 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 11:01:21 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 11:01:21 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 11:01:21 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 11:03:58 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 501
+[23-Nov-2018 11:03:58 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 515
+[23-Nov-2018 11:03:58 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 535
+[23-Nov-2018 11:03:58 America/New_York] PHP Notice:  Undefined index: customer_id in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 553
+[23-Nov-2018 11:12:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 11:29:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 12:20:46 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 12:21:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 12:22:56 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 12:23:55 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 12:40:10 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:02:03 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:02:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:05:04 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:09:01 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[23-Nov-2018 13:09:01 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[23-Nov-2018 13:09:01 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:09:47 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:09:50 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:10:17 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:10:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:11:23 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 645
+[23-Nov-2018 13:12:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[23-Nov-2018 13:14:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[23-Nov-2018 13:18:02 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:21:19 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:21:47 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:23:14 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:23:39 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:23 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:28 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:34 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:50 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:51 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:51 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:51 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:53 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:53 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:53 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:53 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:53 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:54 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:24:56 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:26:20 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:34:40 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:36:55 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:38:01 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:38:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 13:42:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 424
+[23-Nov-2018 13:42:19 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 430
+[23-Nov-2018 13:42:19 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 432
+[23-Nov-2018 13:42:19 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:10:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:11:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:17:48 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:30:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[23-Nov-2018 14:30:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[23-Nov-2018 14:31:22 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:34:59 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:35:08 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:42:29 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 14:42:46 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 16:11:11 America/New_York] PHP Notice:  Undefined index: address in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 414
+[23-Nov-2018 16:46:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 16:46:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[23-Nov-2018 16:46:36 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[23-Nov-2018 16:46:36 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[23-Nov-2018 16:46:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 16:52:49 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 16:52:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[23-Nov-2018 16:52:59 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[23-Nov-2018 16:52:59 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[23-Nov-2018 16:52:59 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 17:04:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 17:04:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[23-Nov-2018 17:04:15 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[23-Nov-2018 17:04:15 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[23-Nov-2018 17:04:15 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[23-Nov-2018 19:23:57 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 04:02:06 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 04:02:14 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 05:58:09 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 06:19:07 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 07:40:22 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 10:56:46 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 11:22:39 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 11:38:39 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 11:38:44 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 11:38:46 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 11:39:40 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[24-Nov-2018 11:40:37 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[24-Nov-2018 11:41:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[24-Nov-2018 11:41:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[24-Nov-2018 11:41:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[24-Nov-2018 11:41:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[24-Nov-2018 11:41:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[24-Nov-2018 11:42:02 America/New_York] PHP Notice:  Undefined index: id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/product_details_content.php on line 7
+[24-Nov-2018 14:27:09 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[25-Nov-2018 02:41:32 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[25-Nov-2018 12:44:35 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[25-Nov-2018 13:43:14 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[25-Nov-2018 13:43:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[25-Nov-2018 13:44:04 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[25-Nov-2018 13:44:04 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[25-Nov-2018 13:45:35 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[25-Nov-2018 13:45:35 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[25-Nov-2018 13:45:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 614
+[25-Nov-2018 13:45:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 628
+[25-Nov-2018 13:45:48 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 630
+[25-Nov-2018 13:46:22 America/New_York] PHP Notice:  Undefined index: first_name in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 683
+[25-Nov-2018 13:47:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[26-Nov-2018 11:19:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[27-Nov-2018 06:34:55 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[27-Nov-2018 06:35:42 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[27-Nov-2018 06:36:08 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 13:12:10 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 13:12:17 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[30-Nov-2018 13:12:17 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[30-Nov-2018 13:12:17 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[30-Nov-2018 13:12:17 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 13:17:25 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 13:19:27 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[30-Nov-2018 13:19:31 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[30-Nov-2018 13:19:31 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[30-Nov-2018 13:19:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[30-Nov-2018 13:19:54 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[30-Nov-2018 13:19:54 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[30-Nov-2018 13:19:54 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[30-Nov-2018 13:20:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 614
+[30-Nov-2018 13:20:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 628
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:33:38 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:34:41 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 140
+[30-Nov-2018 13:34:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:41:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[30-Nov-2018 13:41:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 628
+[30-Nov-2018 13:41:54 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 140
+[30-Nov-2018 13:41:54 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:42:17 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 140
+[30-Nov-2018 13:42:17 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 13:50:34 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 13:51:22 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 356
+[30-Nov-2018 13:51:22 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 358
+[30-Nov-2018 13:51:22 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 14:00:16 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:16 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:16 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:16 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:16 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:16 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:39 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:39 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:39 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:39 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:39 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:00:39 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:08 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:08 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:08 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:08 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:08 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:08 America/New_York] PHP Notice:  Undefined index: branch_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:49 America/New_York] PHP Notice:  Undefined index: branch_nameaa in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:49 America/New_York] PHP Notice:  Undefined index: branch_nameaa in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:49 America/New_York] PHP Notice:  Undefined index: branch_nameaa in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:49 America/New_York] PHP Notice:  Undefined index: branch_nameaa in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:49 America/New_York] PHP Notice:  Undefined index: branch_nameaa in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:01:49 America/New_York] PHP Notice:  Undefined index: branch_nameaa in /home/rubefzqu/cholobike.rubelmahmud.me/pages/home_content.php on line 118
+[30-Nov-2018 14:03:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[30-Nov-2018 14:03:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 614
+[30-Nov-2018 14:03:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 628
+[30-Nov-2018 14:03:35 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 140
+[30-Nov-2018 14:03:35 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:09:34 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 140
+[30-Nov-2018 14:09:34 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:11:23 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:11:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:12:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[30-Nov-2018 14:13:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 647
+[30-Nov-2018 14:14:42 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:14:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:17:08 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:17:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:19:02 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 14:20:18 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 14:20:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[30-Nov-2018 14:20:59 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[30-Nov-2018 14:20:59 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[30-Nov-2018 14:20:59 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 14:21:04 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:21:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:23:21 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:23:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:23:45 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:23:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:24:40 America/New_York] PHP Notice:  Undefined variable: order_info in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 143
+[30-Nov-2018 14:24:40 America/New_York] PHP Notice:  Undefined index: product_name in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 144
+[30-Nov-2018 14:24:40 America/New_York] PHP Notice:  Undefined index: product_price in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 145
+[30-Nov-2018 14:24:40 America/New_York] PHP Notice:  Undefined index: product_quantity in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 146
+[30-Nov-2018 14:24:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 139
+[30-Nov-2018 14:29:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[30-Nov-2018 14:29:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 633
+[30-Nov-2018 14:29:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 647
+[30-Nov-2018 15:00:06 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:46:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[30-Nov-2018 15:47:15 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:47:44 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:49:02 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:51:25 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:52:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:52:47 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:53:03 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:55:31 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:57:59 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:58:05 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:58:21 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:58:29 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[30-Nov-2018 15:58:46 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[02-Dec-2018 16:05:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[02-Dec-2018 16:05:08 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[02-Dec-2018 16:05:08 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[02-Dec-2018 16:05:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[02-Dec-2018 16:05:19 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[02-Dec-2018 16:05:19 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[02-Dec-2018 16:05:19 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[02-Dec-2018 16:05:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 633
+[02-Dec-2018 16:05:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 647
+[02-Dec-2018 16:11:17 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[02-Dec-2018 16:11:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 647
+[03-Dec-2018 00:24:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 00:24:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[03-Dec-2018 00:24:38 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[03-Dec-2018 00:24:38 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[03-Dec-2018 00:24:38 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 01:06:06 America/New_York] PHP Notice:  Undefined index: product_id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_content.php on line 1
+[03-Dec-2018 01:16:45 America/New_York] PHP Warning:  include(./pages/account_update_content.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:16:45 America/New_York] PHP Warning:  include(./pages/account_update_content.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:16:45 America/New_York] PHP Warning:  include(): Failed opening './pages/account_update_content.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:39:06 America/New_York] PHP Notice:  Undefined index: branch_id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 132
+[03-Dec-2018 01:39:06 America/New_York] PHP Notice:  Undefined index: admin_type in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 133
+[03-Dec-2018 01:39:06 America/New_York] PHP Notice:  Undefined index: account_status in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 134
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/header_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/header_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(): Failed opening './includes/header_top.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/header_middle.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/header_middle.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(): Failed opening './includes/header_middle.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/header_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/header_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(): Failed opening './includes/header_bottom.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Notice:  Undefined index: branch_id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 132
+[03-Dec-2018 01:40:53 America/New_York] PHP Notice:  Undefined index: admin_type in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 133
+[03-Dec-2018 01:40:53 America/New_York] PHP Notice:  Undefined index: account_status in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 134
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/footer_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/footer_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(): Failed opening './includes/footer_top.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/footer_widget.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/footer_widget.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(): Failed opening './includes/footer_widget.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/footer_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(./includes/footer_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:40:53 America/New_York] PHP Warning:  include(): Failed opening './includes/footer_bottom.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/header_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/header_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(): Failed opening './includes/header_top.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/header_middle.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/header_middle.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(): Failed opening './includes/header_middle.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/header_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/header_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(): Failed opening './includes/header_bottom.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/footer_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/footer_top.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(): Failed opening './includes/footer_top.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/footer_widget.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/footer_widget.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(): Failed opening './includes/footer_widget.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/footer_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(./includes/footer_bottom.php): failed to open stream: No such file or directory in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:41:34 America/New_York] PHP Warning:  include(): Failed opening './includes/footer_bottom.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rubefzqu/cholobike.rubelmahmud.me/index.php on line 1
+[03-Dec-2018 01:43:15 America/New_York] PHP Notice:  Undefined index: branch_id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 132
+[03-Dec-2018 01:43:15 America/New_York] PHP Notice:  Undefined index: admin_type in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 133
+[03-Dec-2018 01:43:15 America/New_York] PHP Notice:  Undefined index: account_status in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 134
+[03-Dec-2018 01:43:27 America/New_York] PHP Notice:  Undefined index: branch_id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 132
+[03-Dec-2018 01:43:27 America/New_York] PHP Notice:  Undefined index: admin_type in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 133
+[03-Dec-2018 01:43:27 America/New_York] PHP Notice:  Undefined index: account_status in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 134
+[03-Dec-2018 01:43:27 America/New_York] PHP Notice:  Undefined index: id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 3
+[03-Dec-2018 01:44:37 America/New_York] PHP Notice:  Undefined index: branch_id in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 132
+[03-Dec-2018 01:44:37 America/New_York] PHP Notice:  Undefined index: admin_type in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 133
+[03-Dec-2018 01:44:37 America/New_York] PHP Notice:  Undefined index: account_status in /home/rubefzqu/cholobike.rubelmahmud.me/pages/account_update_content.php on line 134
+[03-Dec-2018 02:03:02 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 02:03:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[03-Dec-2018 02:03:24 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[03-Dec-2018 02:03:24 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[03-Dec-2018 02:03:24 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 02:36:41 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 04:04:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[03-Dec-2018 04:17:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 245
+[03-Dec-2018 04:17:45 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[03-Dec-2018 04:17:45 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[03-Dec-2018 04:18:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[03-Dec-2018 04:18:07 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[03-Dec-2018 04:18:07 America/New_York] PHP Notice:  Undefined variable: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 165
+[03-Dec-2018 04:18:07 America/New_York] PHP Notice:  Undefined variable: return in /home/rubefzqu/cholobike.rubelmahmud.me/pages/checkout_content.php on line 166
+[03-Dec-2018 04:18:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 644
+[03-Dec-2018 04:18:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 658
+[03-Dec-2018 04:23:57 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 04:34:13 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[03-Dec-2018 04:34:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 462
+[03-Dec-2018 04:34:22 America/New_York] PHP Notice:  Undefined index: pickup in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 468
+[03-Dec-2018 04:34:22 America/New_York] PHP Notice:  Undefined index: grand_total in /home/rubefzqu/cholobike.rubelmahmud.me/classes/application.php on line 470
+[03-Dec-2018 04:34:22 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[04-Dec-2018 17:29:12 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[06-Dec-2018 01:28:06 America/New_York] PHP Parse error:  syntax error, unexpected '$pages' (T_VARIABLE) in /home/rubefzqu/cholobike.rubelmahmud.me/about.php on line 1
+[07-Dec-2018 00:40:36 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[07-Dec-2018 18:40:40 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[07-Dec-2018 20:45:15 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[08-Dec-2018 04:49:10 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[08-Dec-2018 04:50:08 America/New_York] PHP Parse error:  syntax error, unexpected '$pages' (T_VARIABLE) in /home/rubefzqu/cholobike.rubelmahmud.me/about.php on line 1
+[09-Dec-2018 01:59:34 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[09-Dec-2018 21:40:33 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[10-Dec-2018 11:06:34 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[11-Dec-2018 21:27:34 America/New_York] PHP Parse error:  syntax error, unexpected '$pages' (T_VARIABLE) in /home/rubefzqu/cholobike.rubelmahmud.me/about.php on line 1
+[12-Dec-2018 11:20:52 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[12-Dec-2018 18:51:25 America/New_York] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/rubefzqu/cholobike.rubelmahmud.me/login.php on line 226
+[13-Dec-2018 02:49:50 America/New_York] PHP Parse error:  syntax error, unexpected '$pages' (T_VARIABLE) in /home/rubefzqu/cholobike.rubelmahmud.me/about.php on line 1
